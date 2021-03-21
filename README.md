@@ -12,9 +12,12 @@
 ### Analysis of Outcomes Based on Launch Date
 #May had the most successful campaigns, but during the fall and winter months there seems to be a steady decline with the lowest month being December. 
 
+<img width="290" alt="theater_outcomes_vs_launch" src="https://user-images.githubusercontent.com/80402142/111914669-e6397f80-8a40-11eb-9888-285a101c5287.png">
+
 ### Analysis of Outcomes Based on Goals
-The percentage of cancellation based on goals is zero. The number of successful campaigns had a higher percentage in the $1000 to $4999 range coming 
-in at 73% successful. 
+The percentage of cancellation based on goals is zero. The number of successful campaigns had a higher percentage in the $1000 to $4999 range coming in at 73% successful. 
+
+<img width="406" alt="outcomes_based_on_goals" src="https://user-images.githubusercontent.com/80402142/111914689-f9e4e600-8a40-11eb-82c0-0a1916f345d8.png">
 
 ### Challenges and Difficulties Encountered
 
